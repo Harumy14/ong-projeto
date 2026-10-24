@@ -60,3 +60,9 @@ A resposta esperada é:
 ```json
 {"status":"ok"}
 ```
+
+## Status do projeto
+
+A estrutura inicial do projeto foi criada, e a API Express está funcionando.
+
+A rota `GET /api/health` retorna o status `ok`, que é exibido na página inicial junto com a data e a hora.
